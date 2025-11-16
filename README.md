@@ -21,5 +21,3 @@
 **Caminho onde acontece algum erro (exceção) no processo.**
 
 **Esses caminhos cobrem todo o fluxo do código.**
-
-**O código comentado está na pasta /src. Eu deixei explicando o que cada parte faz, como foi pedido na atividade. Também deixei a planilha e este README com todos os cálculos.**
