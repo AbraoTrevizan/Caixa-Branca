@@ -20,4 +20,4 @@
 
 **Caminho onde acontece algum erro (exceção) no processo.**
 
-**Esses caminhos cobrem todo o fluxo do código.**
+**Esses caminhos cobrem todo o fluxo do código.*
